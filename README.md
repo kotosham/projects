@@ -1,1 +1,1 @@
-Ссылка на тг бота: https://t.me/quiz_gi_bot
+Телеграм бот с квизом. Ссылка: https://t.me/quiz_gi_bot
